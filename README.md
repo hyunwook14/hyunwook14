@@ -1,7 +1,7 @@
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Woogie%20Git%20Hub&fontSize=90" width="100%"/>
 ### Hi there 👋
-<img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=footer&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=footer&fontSize=0" width="100%"/>
 
 <!--
 **hyunwook14/hyunwook14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
